@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: needs triage
+title: "[Enhancement]"
+labels: enhancement, needs triage
 assignees: ''
 
 ---
