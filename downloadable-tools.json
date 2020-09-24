@@ -1,0 +1,1751 @@
+[{
+        "package-id": "Aistant.DocImport",
+        "package-link": "https://www.nuget.org/packages/Aistant.DocImport/",
+        "command": "aistdoc",
+        "author": "@korzh",
+        "author-link": "https://github.com/korzh",
+        "project-site": "",
+        "project-site-link": "",
+        "description": "Generates an API reference documentation for .NET and TypeScript code (based on XML Docs or TypeDoc comments) and publishes it on the web."
+    },
+    {
+        "package-id": "altcover.global",
+        "package-link": "https://www.nuget.org/packages/altcover.global/",
+        "command": "altcover",
+        "author": "@SteveGilham",
+        "author-link": "https://github.com/SteveGilham",
+        "project-site": "",
+        "project-site-link": "",
+        "description": "Cross-platform code line and branch coverage tool-set for .net core/.net framework/mono"
+    },
+    {
+        "package-id": "altcover.visualizer",
+        "package-link": "https://www.nuget.org/packages/altcover.visualizer/",
+        "command": "altcover.visualizer",
+        "author": "@SteveGilham",
+        "author-link": "https://github.com/SteveGilham",
+        "project-site": "",
+        "project-site-link": "",
+        "description": "Code coverage display tool to show which parts of your code _aren't_ being covered. Requires GTK+3 installed separately"
+    },
+    {
+        "package-id": "azure-storage-cli",
+        "package-link": "https://www.nuget.org/packages/azure-storage-cli/",
+        "command": "as-cli",
+        "author": "@peacecwz",
+        "author-link": "https://github.com/peacecwz",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/peacecwz/azure-storage-cli",
+        "description": "Use Azure Storage on CLI. Download, upload, show and more on CLI"
+    },
+    {
+        "package-id": "assembly-differ",
+        "package-link": "https://www.nuget.org/packages/assembly-differ/",
+        "command": "assembly-differ",
+        "author": "Nullean commiters",
+        "author-link": "https://github.com/orgs/nullean/people",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/nullean/assembly-differ",
+        "description": "Compare and Diff assemblies from different sources (inluding NuGet). Useful for determining what changes are introduced across versions, and if any are breaking."
+    },
+    {
+        "package-id": "assembly-rewriter",
+        "package-link": "https://www.nuget.org/packages/assembly-rewriter/",
+        "command": "assembly-rewriter",
+        "author": "Nullean commiters",
+        "author-link": "https://github.com/orgs/nullean/people",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/nullean/assembly-rewriter",
+        "description": "Rewrites .NET assemblies with Mono.Cecil, to allow two different versions of the same assembly to be referenced within an application."
+    },
+    {
+        "package-id": "dotnet-autocommit",
+        "package-link": "https://www.nuget.org/packages/dotnet-autocommit/",
+        "command": "autocommit",
+        "author": "@StevenThuriot",
+        "author-link": "https://github.com/StevenThuriot/GitAutoCommit",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/StevenThuriot/GitAutoCommit",
+        "description": "Automatically commit changes to git on a set interval, ending with a squash merge to the original head"
+    },
+    {
+        "package-id": "aver",
+        "package-link": "https://www.nuget.org/packages/aver/",
+        "command": "aver",
+        "author": "@mocosha",
+        "author-link": "https://github.com/mocosha",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/mocosha/assembly-version",
+        "description": "Dotnet tool for reading assembly information"
+    },
+    {
+        "package-id": "azure-boards-workitems",
+        "package-link": "https://www.nuget.org/packages/azure-boards-workitems/",
+        "command": "azure-boards-workitems",
+        "author": "@jonfuller",
+        "author-link": "https://github.com/jonfuller",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/sep/AzDevWorkItemHistory",
+        "description": "Execute queries and other work item data extraction tools."
+    },
+    {
+        "package-id": "azuresigntool",
+        "package-link": "https://www.nuget.org/packages/AzureSignTool/",
+        "command": "azuresigntool",
+        "author": "@vcsjones",
+        "author-link": "https://github.com/vcsjones",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/vcsjones/AzureSignTool",
+        "description": "Code sign your files using an Authenticode certificate stored in Azure Key Vault"
+    },
+    {
+        "package-id": "base64urls",
+        "package-link": "https://www.nuget.org/packages/base64urls/",
+        "command": "base64urls ",
+        "author": "@guitarrapc",
+        "author-link": "https://github.com/guitarrapc",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/guitarrapc/Base64UrlCore",
+        "description": "CLI tool for base64 & base64url encode/decode for URL applications."
+    },
+    {
+        "package-id": "BenchmarkDotNet.Tool",
+        "package-link": "https://www.nuget.org/packages/BenchmarkDotNet.Tool",
+        "command": "benchmark",
+        "author": ".NET Foundation and contributors",
+        "author-link": "https://github.com/dotnet/BenchmarkDotNet",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/dotnet/BenchmarkDotNet",
+        "description": "Provides a convenient way to execute your benchmark(s) from the command line interface."
+    },
+    {
+        "package-id": "boots",
+        "package-link": "https://www.nuget.org/packages/boots/",
+        "command": "boots",
+        "author": "@jonathanpeppers",
+        "author-link": "https://github.com/jonathanpeppers",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/jonathanpeppers/boots",
+        "description": ".NET global tool for bootstrapping vsix &amp; pkg files. Just &quot;boots https://url/to/your/package&quot;!"
+    },
+    {
+        "package-id": "bruce",
+        "package-link": "https://www.nuget.org/packages/bruce/",
+        "command": "bruce",
+        "author": "@SteveSyfuhs",
+        "author-link": "https://syfuhs.net/",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/dotnet/kerberos.net",
+        "description": "A Command Line Kerberos .NET Management Tool."
+    },
+    {
+        "package-id": "CertDump",
+        "package-link": "https://www.nuget.org/packages/CertDump/",
+        "command": "certdump",
+        "author": "@secana",
+        "author-link": "https://github.com/secana",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/secana/CertDump",
+        "description": "CLI tool to dump the signing certificate from a Portable Executable (PE) file."
+    },
+    {
+        "package-id": "dotnet-certes",
+        "package-link": "https://www.nuget.org/packages/dotnet-certes/",
+        "command": "certes",
+        "author": "@fszlin",
+        "author-link": "https://github.com/fszlin",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/fszlin/certes",
+        "description": "CLI tool for acquire certificates via the Automated Certificate Management Environment (ACME) protocol. (example: LetsEncrypt.org)"
+    },
+    {
+        "package-id": "dotnet-cleanup",
+        "package-link": "https://www.nuget.org/packages/dotnet-cleanup/",
+        "command": "cleanup",
+        "author": "@sebnilsson",
+        "author-link": "https://github.com/sebnilsson",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/sebnilsson/DotnetCleanup",
+        "description": ".NET Core Global Tool for cleaning up solution, project or folder."
+    },
+    {
+        "package-id": "ICSharpCode.CodeConverter.CodeConv",
+        "package-link": "https://www.nuget.org/packages/ICSharpCode.CodeConverter.CodeConv/",
+        "command": "codeconv",
+        "author": "@icsharpcode",
+        "author-link": "https://github.com/icsharpcode/",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/icsharpcode/CodeConverter",
+        "description": "Codeconv converts code from VB.NET to C# (and vice versa)"
+    },
+    {
+        "package-id": "coverlet.console",
+        "package-link": "https://www.nuget.org/packages/coverlet.console/",
+        "command": "coverlet",
+        "author": "@tonerdo",
+        "author-link": "https://github.com/tonerdo",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/tonerdo/coverlet",
+        "description": "Coverlet is a cross platform code coverage library for .NET Core, with support for line, branch and method coverage."
+    },
+    {
+        "package-id": "CSharpMinifier",
+        "package-link": "https://www.nuget.org/packages/CSharpMinifier/",
+        "command": "csmin",
+        "author": "@atifaziz",
+        "author-link": "https://github.com/atifaziz",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/atifaziz/CSharpMinifier",
+        "description": "Fast and small utility to minify C# source. It removes whitespace and comments without altering the behaviour of the code. It is fast and small because it does not need or use Roslyn. It is also available as a library."
+    },
+    {
+        "package-id": "CSharpSyntaxValidator",
+        "package-link": "https://www.nuget.org/packages/CSharpSyntaxValidator/",
+        "command": "csval",
+        "author": "@atifaziz",
+        "author-link": "https://github.com/atifaziz",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/atifaziz/CSharpSyntaxValidator",
+        "description": "Utility that validates a C# source for syntax errors."
+    },
+    {
+        "package-id": "CycloneDX",
+        "package-link": "https://www.nuget.org/packages/CycloneDX/",
+        "command": "CycloneDX",
+        "author": "@stevespringett",
+        "author-link": "https://github.com/stevespringett",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/CycloneDX/cyclonedx-dotnet",
+        "description": "Creates CycloneDX Software Bill-of-Materials (SBOM) from .NET Projects"
+    },
+    {
+        "package-id": "Dacpac.Tool",
+        "package-link": "https://www.nuget.org/packages/Dacpac.Tool/",
+        "command": "dacpac",
+        "author": "@gustavoamerico",
+        "author-link": "https://github.com/GustavoAmerico",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/GustavoAmerico/SQLServerDeploy/",
+        "description": "Publish .dacpac on MS SQL Server without SSDT installed"
+    },
+    {
+        "package-id": "Korzh.DbTool",
+        "package-link": "https://www.nuget.org/packages/Korzh.DbTool/",
+        "command": "dbtool",
+        "author": "@korzh",
+        "author-link": "https://github.com/korzh",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/kedonec/Korzh.DbUtils",
+        "description": "Exports database data to some commonly-used formats (XML, JSON, etc.) or imports the data in those formats back to DB."
+    },
+    {
+        "package-id": "depguard",
+        "package-link": "https://github.com/christophwille/dotnet-depguard/",
+        "command": "depguard",
+        "author": "@christophwille",
+        "author-link": "https://github.com/christophwille/",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/christophwille/dotnet-depguard/",
+        "description": "Check your projects for use of disallowed (blacklisted) NuGet packages, including transitive references."
+    },
+    {
+        "package-id": "dmd5",
+        "package-link": "https://www.nuget.org/packages/dmd5",
+        "command": "dmd5",
+        "author": "@Rwing",
+        "author-link": "https://github.com/Rwing",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/Rwing/Dotnet.Tool.MD5",
+        "description": "Just generate MD5 hash value in CLI."
+    },
+    {
+        "package-id": "docker-watch",
+        "package-link": "https://www.nuget.org/packages/docker-watch",
+        "command": "docker-watch",
+        "author": "@nickvdyck",
+        "author-link": "https://github.com/nickvdyck",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/nickvdyck/docker-watch",
+        "description": "A command line utility to notify docker mounted volumes about changes on Windows."
+    },
+    {
+        "package-id": "dotnet-doc",
+        "package-link": "https://www.nuget.org/packages/dotnet-doc/",
+        "command": "docs",
+        "author": "@spboyer",
+        "author-link": "https://github.com/spboyer",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/spboyer/dotnet-doc",
+        "description": "Search docs.microsoft.com using the command line."
+    },
+    {
+        "package-id": "dotnet-aop",
+        "package-link": "https://www.nuget.org/packages/dotnet-aop",
+        "command": "dotnet-aop",
+        "author": "@ignatandrei",
+        "author-link": "https://github.com/ignatandrei/",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/ignatandrei/AOP_With_Roslyn",
+        "description": "A tool to make AOP for .cs files for your CI pipeline."
+    },
+    {
+        "package-id": "Apim.DevOps.Toolkit",
+        "package-link": "https://www.nuget.org/packages/Apim.DevOps.Toolkit/",
+        "command": "dotnet-apim",
+        "author": "@mirsaeedi",
+        "author-link": "https://github.com/mirsaeedi/",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/mirsaeedi/dotnet-apim",
+        "description": "A cross-platform dotnet tool which streamlines the CI/CD process of deploying APIs into Azure API Management"
+    },
+    {
+        "package-id": "dotnet-aspnet-codegenerator",
+        "package-link": "https://www.nuget.org/packages/dotnet-aspnet-codegenerator/",
+        "command": "dotnet-aspnet-codegenerator",
+        "author": "@aspnet",
+        "author-link": "https://github.com/aspnet",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/aspnet/Scaffolding",
+        "description": "Code generation tool for creating controllers, views, and models in ASP.NET Core projects."
+    },
+    {
+        "package-id": "Cake.Tool",
+        "package-link": "https://www.nuget.org/packages/Cake.Tool/",
+        "command": "dotnet-cake",
+        "author": "@cake-build",
+        "author-link": "https://github.com/cake-build/",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/cake-build/cake",
+        "description": "A tool to run cross platform Cake build scripts."
+    },
+    {
+        "package-id": "dotnet-config",
+        "package-link": "https://www.nuget.org/packages/dotnet-config/",
+        "command": "dotnet-config",
+        "author": "@kzu",
+        "author-link": "https://github.com/kzu/",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/kzu/dotnet-config",
+        "description": "A global tool for managing hierarchical configurations for dotnet tools, using git config format."
+    },
+    {
+        "package-id": "dotnet-config2json",
+        "package-link": "https://www.nuget.org/packages/dotnet-config2json/",
+        "command": "dotnet-config2json",
+        "author": "@andrewlock",
+        "author-link": "https://github.com/andrewlock/",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/andrewlock/dotnet-config2json",
+        "description": "A simple tool to convert a web.config file to an appsettings.json file."
+    },
+    {
+        "package-id": "dotnet-cowsay",
+        "package-link": "https://www.nuget.org/packages/dotnet-cowsay/",
+        "command": "dotnet-cowsay",
+        "author": "@isaac2004",
+        "author-link": "https://github.com/isaac2004",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/isaac2004/dotnet-cowsay/",
+        "description": "CLI Tool that gives a a random blog post from discoverdot.net in cowsay format."
+    },
+    {
+        "package-id": "CSharpToTypeScript.CLITool",
+        "package-link": "https://www.nuget.org/packages/CSharpToTypeScript.CLITool",
+        "command": "dotnet-cs2ts",
+        "author": "@AdrianWilczynski",
+        "author-link": "https://github.com/AdrianWilczynski",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/AdrianWilczynski/CSharpToTypeScript",
+        "description": "Convert C# Models, ViewModels and DTOs into their TypeScript equivalents."
+    },
+    {
+        "package-id": "dotnet-dbinfo",
+        "package-link": "https://www.nuget.org/packages/dotnet-dbinfo/",
+        "command": "dotnet-dbinfo",
+        "author": "@berkid89",
+        "author-link": "https://github.com/berkid89",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/berkid89/dotnet-dbinfo",
+        "description": "A simple cross-platform command-line tool for get useful database information (in json format)."
+    },
+    {
+        "package-id": "dotnet-depends",
+        "package-link": "https://www.nuget.org/packages/dotnet-depends/",
+        "command": "dotnet-depends",
+        "author": "@mholo65",
+        "author-link": "https://github.com/mholo65",
+        "project-site": "Github",
+        "project-site-link": "https://github.com/mholo65/depends",
+        "description": "Dependency explorer for .NET."
+    },
+    {
+        "package-id": "Amazon.ElasticBeanstalk.Tools",
+        "package-link": "https://www.nuget.org/packages/Amazon.ElasticBeanstalk.Tools/",
+        "command": "dotnet-eb",
+        "author": "@aws",
+        "author-link": "https://github.com/aws",
+        "project-site": "Github",
+        "project-site-link": "https://github.com/aws/aws-extensions-for-dotnet-cli",
+        "description": "Tools to deploy ASP.NET Core apps to AWS Elastic Beanstalk. Global tool started at version 3.0.0."
+    },
+    {
+        "package-id": "Amazon.ECS.Tools",
+        "package-link": "https://www.nuget.org/packages/Amazon.ECS.Tools/",
+        "command": "dotnet-ecs",
+        "author": "@aws",
+        "author-link": "https://github.com/aws",
+        "project-site": "Github",
+        "project-site-link": "https://github.com/aws/aws-extensions-for-dotnet-cli",
+        "description": "Tools to deploy containers to Amazon Elastic Container Service functions. Global tool started at version 3.0.0."
+    },
+    {
+        "package-id": "dotnet-encrypto",
+        "package-link": "https://www.nuget.org/packages/dotnet-encrypto",
+        "command": "dotnet-encrypto",
+        "author": "@tomchavakis",
+        "author-link": "https://github.com/tomchavakis",
+        "project-site": "Github",
+        "project-site-link": "https://github.com/tomchavakis/encrypto",
+        "description": "A tool to encrypt/decrypt folder or files using AES 256 Encryption Algorithm"
+    },
+    {
+        "package-id": "dotnet-file",
+        "package-link": "https://www.nuget.org/packages/dotnet-file",
+        "command": "dotnet-file",
+        "author": "@kzu",
+        "author-link": "https://github.com/kzu",
+        "project-site": "Github",
+        "project-site-link": "https://github.com/kzu/dotnet-file",
+        "description": "A dotnet global tool for downloading and updating loose files from arbitrary URLs."
+    },
+    {
+        "package-id": "FluentMigrator.DotNet.Cli",
+        "package-link": "https://www.nuget.org/packages/FluentMigrator.DotNet.Cli/",
+        "command": "dotnet-fm",
+        "author": "@FluentMigrator",
+        "author-link": "https://github.com/fluentmigrator",
+        "project-site": "GitHub",
+        "project-site-link": "https://fluentmigrator.github.io/articles/runners/dotnet-fm.html",
+        "description": "FluentMigrator: Is a database migration framework for .NET much like Ruby on Rails Migrations."
+    },
+    {
+        "package-id": "dotnet-format",
+        "package-link": "https://www.nuget.org/packages/dotnet-format/",
+        "command": "dotnet-format",
+        "author": "@dotnet",
+        "author-link": "https://github.com/dotnet",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/dotnet/format",
+        "description": "dotnet-format is a code formatter for dotnet that applies style preferences to a project or solution. Preferences will be read from an .editorconfig file, if present, otherwise a default set of preferences will be used."
+    },
+    {
+        "package-id": "dotnet-fsharplint",
+        "package-link": "https://www.nuget.org/packages/dotnet-fsharplint/",
+        "command": "dotnet-fsharplint",
+        "author": "@fsprojects",
+        "author-link": "https://github.com/fsprojects",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/fsprojects/FSharpLint",
+        "description": "Lint tool for F#."
+    },
+    {
+        "package-id": "dotnet-giio",
+        "package-link": "https://www.nuget.org/packages/dotnet-giio/",
+        "command": "dotnet-giio",
+        "author": "@liammoat",
+        "author-link": "https://github.com/liammoat",
+        "project-site": "",
+        "project-site-link": "",
+        "description": "A .NET global tool to create useful .gitignore files for your project using gitignore.io"
+    },
+    {
+        "package-id": "GitReleaseManager.Tool",
+        "package-link": "https://www.nuget.org/packages/GitReleaseManager.Tool",
+        "command": "dotnet-gitreleasemanager",
+        "author": "@GitTools",
+        "author-link": "https://github.com/GitTools",
+        "project-site": "",
+        "project-site-link": "",
+        "description": "Tool for creating and exporting releases for software applications hosted on Github"
+    },
+    {
+        "package-id": "GitVersion.Tool",
+        "package-link": "https://www.nuget.org/packages/GitVersion.Tool",
+        "command": "dotnet-gitversion",
+        "author": "@GitTools",
+        "author-link": "https://github.com/GitTools",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/GitTools/GitVersion",
+        "description": "Easy Semantic Versioning (http://semver.org) for projects using Git."
+    },
+    {
+        "package-id": "dotnet-grab",
+        "package-link": "https://nuget.org/packages/dotnet-grab",
+        "command": "dotnet-grab",
+        "author": "@rohith",
+        "author-link": "https://github.com/rohith",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/rohith/dotnet-grab",
+        "description": ".NET core global tool to download nuget packages in to a directory without any project. Useful when developing csx / fsx scripts"
+    },
+    {
+        "package-id": "TheBlueSky.DotNet.Tools.SwiftHash",
+        "package-link": "https://www.nuget.org/packages/TheBlueSky.DotNet.Tools.SwiftHash/",
+        "command": "dotnet-hash",
+        "author": "@TheBlueSky",
+        "author-link": "https://github.com/TheBlueSky",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/TheBlueSky/dotnet-hash",
+        "description": "A simple dotnet tool to calculate hashes for the given file."
+    },
+    {
+        "package-id": "dotnet-ignore",
+        "package-link": "https://www.nuget.org/packages/dotnet-ignore/",
+        "command": "dotnet-ignore",
+        "author": "@Arasz",
+        "author-link": "https://github.com/Arasz",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/Arasz/dotnet-ignore",
+        "description": "Global .NET Core tool that can download .gitignore file from github gitignore repository."
+    },
+    {
+        "package-id": "dotnet-imgup",
+        "package-link": "https://www.nuget.org/packages/dotnet-imgup/",
+        "command": "dotnet-imgup",
+        "author": "@rohith",
+        "author-link": "https://github.com/rohith",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/rohith/dotnet-imgup",
+        "description": "Global .NET Core tool to upload images on disk to imgur."
+    },
+    {
+        "package-id": "QB.DotNetCoreInstaller",
+        "package-link": "https://www.nuget.org/packages/QB.DotNetCoreInstaller/",
+        "command": "dotnet-install",
+        "author": "@jaurenq",
+        "author-link": "https://github.com/jaurenq",
+        "project-site": "Github",
+        "project-site-link": "https://github.com/jaurenq/QB.DotNetCoreInstaller",
+        "description": "Provides capabilities for installing a .NET Core shared runtime."
+    },
+    {
+        "package-id": "Amazon.Lambda.Tools",
+        "package-link": "https://www.nuget.org/packages/Amazon.Lambda.Tools/",
+        "command": "dotnet-lambda",
+        "author": "@aws",
+        "author-link": "https://github.com/aws",
+        "project-site": "Github",
+        "project-site-link": "https://github.com/aws/aws-extensions-for-dotnet-cli",
+        "description": "Tools to deploy AWS Lambda functions. Global tool started at version 3.0.0."
+    },
+    {
+        "package-id": "Project2015To2017.Migrate2017.Tool",
+        "package-link": "https://www.nuget.org/packages/Project2015To2017.Migrate2017.Tool",
+        "command": "dotnet-migrate-2017",
+        "author": "@hvanbakel",
+        "author-link": "https://github.com/hvanbakel",
+        "project-site": "",
+        "project-site-link": "",
+        "description": "Tool for converting a MSBuild project file (`csproj`) to VS2017 format and beyond."
+    },
+    {
+        "package-id": "dotnet-namechk",
+        "package-link": "https://nuget.org/packages/dotnet-namechk",
+        "command": "dotnet-namechk",
+        "author": "@rohith",
+        "author-link": "https://github.com/rohith",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/rohith/dotnet-namechk",
+        "description": "Global .NET Core tool to check for the availability of package names on NuGet"
+    },
+    {
+        "package-id": "dotnet-nuget-gc",
+        "package-link": "https://nuget.org/packages/dotnet-nuget-gc",
+        "command": "dotnet-nuget-gc",
+        "author": "@terrajobst",
+        "author-link": "https://github.com/terrajobst",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/terrajobst/dotnet-nuget-gc",
+        "description": "A tool for cleaning the NuGet cache."
+    },
+    {
+        "package-id": "Obfuscar.GlobalTool",
+        "package-link": "https://www.nuget.org/packages/Obfuscar.GlobalTool/",
+        "command": "dotnet-obfuscar",
+        "author": "@lextm",
+        "author-link": "https://github.com/lextm",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/obfuscar/obfuscar",
+        "description": "A .NET Core global tool to obfuscate assemblies."
+    },
+    {
+        "package-id": "Octopus.DotNet.Cli",
+        "package-link": "https://www.nuget.org/packages/Octopus.DotNet.Cli/",
+        "command": "dotnet-octo",
+        "author": "@OctopusDeploy",
+        "author-link": "https://github.com/OctopusDeploy",
+        "project-site": "",
+        "project-site-link": "",
+        "description": "A .NET Core tool for octo.exe. This lets you install Octo onto a machine or build agent as long as you have the .NET Core 2.1.300 SDK available."
+    },
+    {
+        "package-id": "dotnet-outdated-tool",
+        "package-link": "https://www.nuget.org/packages/dotnet-outdated-tool/",
+        "command": "dotnet-outdated",
+        "author": "dotnet-outdated team",
+        "author-link": "https://github.com/orgs/dotnet-outdated/people",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/dotnet-outdated/dotnet-outdated",
+        "description": "A .NET Core global tool to display and update outdated NuGet packages in a project."
+    },
+    {
+        "package-id": "dotnet-pr",
+        "package-link": "https://www.nuget.org/packages/dotnet-pr",
+        "command": "dotnet-pr",
+        "author": "@johnkors",
+        "author-link": "https://github.com/johnkors",
+        "project-site": "",
+        "project-site-link": "",
+        "description": ".NET Core command-line (CLI) tool to open the browser in pull request mode for the code collaboration tool (GitHub, GitLab, Bitbucket++) connected to the current checked out branch (fetched via the git remote and/or tracking branch)."
+    },
+    {
+        "package-id": "dotnet-project-licenses",
+        "package-link": "https://www.nuget.org/packages/dotnet-project-licenses",
+        "command": "dotnet-project-licenses",
+        "author": "@tomchavakis",
+        "author-link": "https://github.com/tomchavakis",
+        "project-site": "",
+        "project-site-link": "",
+        "description": ".NET Core tool to get the licenses of a project."
+    },
+    {
+        "package-id": "dotnet-property",
+        "package-link": "https://www.nuget.org/packages/dotnet-property",
+        "command": "dotnet-property",
+        "author": "@pwelter34",
+        "author-link": "https://github.com/loresoft",
+        "project-site": "",
+        "project-site-link": "",
+        "description": ".NET Core command-line (CLI) tool to update project properties and version numbers on build."
+    },
+    {
+        "package-id": "dotnet-readbin",
+        "package-link": "https://www.nuget.org/packages/dotnet-readbin",
+        "command": "dotnet-readbin",
+        "author": "@shatl",
+        "author-link": "https://github.com/alphacloud",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/alphacloud/dotnet-readbin",
+        "description": "A .NET Core global tool to convert encoded or serialized data to human-readable format."
+    },
+    {
+        "package-id": "dotnet-retire",
+        "package-link": "https://www.nuget.org/packages/dotnet-retire",
+        "command": "dotnet-retire",
+        "author": "@johnkors",
+        "author-link": "https://github.com/johnkors",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/retirenet/dotnet-retire",
+        "description": "A dotnet CLI extension to check your project for known vulnerabilities."
+    },
+    {
+        "package-id": "dotnet-runas",
+        "package-link": "https://www.nuget.org/packages/dotnet-runas",
+        "command": "dotnet-runas",
+        "author": "@NikolayPianikov",
+        "author-link": "https://github.com/NikolayPianikov",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/JetBrains/runAs",
+        "description": "Allows to run a dotnet process under a specified user account."
+    },
+    {
+        "package-id": "dotnet-script",
+        "package-link": "https://www.nuget.org/packages/dotnet-script/",
+        "command": "dotnet-script",
+        "author": "@filipw",
+        "author-link": "https://github.com/filipw",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/filipw/dotnet-script",
+        "description": "Run C# scripts from the .NET CLI."
+    },
+    {
+        "package-id": "DotNetSdkHelpers",
+        "package-link": "https://www.nuget.org/packages/DotNetSdkHelpers/",
+        "command": "dotnet-sdk",
+        "author": "@jonstodle",
+        "author-link": "https://github.com/jonstodle",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/jonstodle/DotNetSdkHelpers",
+        "description": "Manage .NET Core SDKs."
+    },
+    {
+        "package-id": "dotnet-search",
+        "package-link": "https://www.nuget.org/packages/dotnet-search/",
+        "command": "dotnet-search",
+        "author": "@billpratt",
+        "author-link": "https://github.com/billpratt",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/billpratt/dotnet-search",
+        "description": "Search for Nuget packages using the .NET Core CLI."
+    },
+    {
+        "package-id": "dotnet-serve",
+        "package-link": "https://www.nuget.org/packages/dotnet-serve/",
+        "command": "dotnet-serve",
+        "author": "@natemcmaster",
+        "author-link": "https://github.com/natemcmaster",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/natemcmaster/dotnet-serve",
+        "description": "A simple command line HTTP server, no code required."
+    },
+    {
+        "package-id": "DotNetSimpleServer",
+        "package-link": "https://www.nuget.org/packages/DotNetSimpleServer/",
+        "command": "dotnet-server",
+        "author": "@joro550",
+        "author-link": "https://github.com/joro550",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/joro550/dotnet-server",
+        "description": "A configurable local http server to \"mock\" or fake responses from down stream services."
+    },
+    {
+        "package-id": "AppCore.SigningTool",
+        "package-link": "https://www.nuget.org/packages/AppCore.SigningTool/",
+        "command": "dotnet-signtool",
+        "author": "@AppCoreNet",
+        "author-link": "https://github.com/AppCoreNet",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/AppCoreNet/SigningTool",
+        "description": "A tool for strong-name keys and signing of assemblies."
+    },
+    {
+        "package-id": "dotnet-snow",
+        "package-link": "https://www.nuget.org/packages/dotnet-snow/",
+        "command": "dotnet-snow",
+        "author": "@ptupitsyn",
+        "author-link": "https://github.com/ptupitsyn",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/ptupitsyn/let-it-snow",
+        "description": "Avalonia-based cross-platform graphical snow demo."
+    },
+    {
+        "package-id": "dotnet-sonarscanner",
+        "package-link": "https://www.nuget.org/packages/dotnet-sonarscanner",
+        "command": "dotnet-sonarscanner",
+        "author": "@SonarSource",
+        "author-link": "https://github.com/SonarSource",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/SonarSource/sonar-scanner-msbuild",
+        "description": "The SonarScanner for MSBuild is the recommended way to launch a SonarQube or SonarCloud analysis for projects/solutions using dotnet command as build tool."
+    },
+    {
+        "package-id": "dotnet-sort-refs",
+        "package-link": "https://www.nuget.org/packages/dotnet-sort-refs",
+        "command": "dotnet-sort-refs",
+        "author": "@mysticmind",
+        "author-link": "https://github.com/mysticmind",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/mysticmind/dotnet-sort-refs",
+        "description": "A tool to alphabetically sort package references in .NET projects. Also can be incluced in build pipeline to run checks."
+    },
+    {
+        "package-id": "dotnet-sqldb",
+        "package-link": "https://www.nuget.org/packages/dotnet-sqldb",
+        "command": "dotnet-sqldb",
+        "author": "@danielwertheim",
+        "author-link": "https://github.com/danielwertheim",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/danielwertheim/dotnet-sqldb",
+        "description": "Using DbUp, to apply migration scripts etc. against a SQL-Server database."
+    },
+    {
+        "package-id": "dotnet-sshdeploy",
+        "package-link": "https://www.nuget.org/packages/dotnet-sshdeploy",
+        "command": "dotnet-sshdeploy",
+        "author": "@Unosquare",
+        "author-link": "https://github.com/unosquare",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/unosquare/sshdeploy",
+        "description": "A dotnet CLI command that enables quick deployments over SSH."
+    },
+    {
+        "package-id": "dotnet-symbol",
+        "package-link": "https://www.nuget.org/packages/dotnet-symbol/",
+        "command": "dotnet-symbol",
+        "author": "@microsoft",
+        "author-link": "https://github.com/microsoft",
+        "project-site": "",
+        "project-site-link": "",
+        "description": "Symbols download utility."
+    },
+    {
+        "package-id": "DotnetThx",
+        "package-link": "https://www.nuget.org/packages/DotnetThx",
+        "command": "dotnet-thx",
+        "author": "@krystiankolad",
+        "author-link": "https://github.com/KrystianKolad",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/KrystianKolad/DotnetThx",
+        "description": "Find authors of packages you are using in you project and visit their GitHub."
+    },
+    {
+        "package-id": "dotnet-toast",
+        "package-link": "https://www.nuget.org/packages/dotnet-toast",
+        "command": "dotnet-toast",
+        "author": "@rohith",
+        "author-link": "https://github.com/rohith",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/rohith/dotnet-toast",
+        "description": "A .NET Core global tool to send custom toast notifications on Windows 10"
+    },
+    {
+        "package-id": "dotnet-try",
+        "package-link": "https://www.nuget.org/packages/dotnet-try/",
+        "command": "dotnet-try",
+        "author": "@dotnet (organization)",
+        "author-link": "https://github.com/dotnet",
+        "project-site": "Try .NET",
+        "project-site-link": "https://dotnet.microsoft.com/platform/try-dotnet",
+        "description": "Try.NET Global Tool: interactive in-browser documentation and workshop creator"
+    },
+    {
+        "package-id": "dotnetCampus.UpdateAllDotNetTools",
+        "package-link": "https://www.nuget.org/packages/dotnetCampus.UpdateAllDotNetTools",
+        "command": "dotnet-updatealltools",
+        "author": "@lindexi",
+        "author-link": "https://github.com/lindexi",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/dotnet-campus/dotnetCampus.UpdateAllDotNetTools",
+        "description": "The dotnet tool that can update all dotnet tools."
+    },
+    {
+        "package-id": "dotnet-ups",
+        "package-link": "https://www.nuget.org/packages/dotnet-ups",
+        "command": "dotnet-ups",
+        "author": "@Floatas",
+        "author-link": "https://github.com/floatas",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/floatas/UPS",
+        "description": "Synchronize sln folder structure to physical folders also fixing project references."
+    },
+    {
+        "package-id": "DotnetVersion",
+        "package-link": "https://www.nuget.org/packages/DotnetVersion/",
+        "command": "dotnet-version",
+        "author": "@Jon-Indico",
+        "author-link": "https://github.com/Jon-Indico",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/Jon-Indico/DotnetVersion",
+        "description": "A simple tool to update the version number of your project. If you know of yarn version, this is that for .NET."
+    },
+    {
+        "package-id": "dotnet-warp",
+        "package-link": "https://www.nuget.org/packages/dotnet-warp/",
+        "command": "dotnet-warp",
+        "author": "@Hubert-Rybak",
+        "author-link": "https://github.com/Hubert-Rybak",
+        "project-site": "",
+        "project-site-link": "",
+        "description": "A .NET Core global tool to pack project into single executable using Warp."
+    },
+    {
+        "package-id": "dotnet-xdt",
+        "package-link": "https://www.nuget.org/packages/dotnet-xdt/",
+        "command": "dotnet-xdt",
+        "author": "@nil4",
+        "author-link": "https://github.com/nil4",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/nil4/dotnet-transform-xdt",
+        "description": "Toolbox for applying XML Document Transformations to .NET configuration files, or any other XML-structured content. Includes a .NET Core global tool, a .NET Standard library with no external dependencies, and a standalone .NET 4.6+ executable."
+    },
+    {
+        "package-id": "dotnetrsa",
+        "package-link": "https://www.nuget.org/packages/dotnetrsa",
+        "command": "dotnetrsa",
+        "author": "@stulzq",
+        "author-link": "https://github.com/stulzq",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/stulzq/DotnetRSA",
+        "description": "Generate rsa pkcs1, pkcs8, xml format key. Conversion between the three formats."
+    },
+    {
+        "package-id": "EntityFrameworkCore.Generator",
+        "package-link": "https://www.nuget.org/packages/EntityFrameworkCore.Generator",
+        "command": "efg",
+        "author": "@pwelter34",
+        "author-link": "https://github.com/loresoft",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/loresoft/EntityFrameworkCore.Generator",
+        "description": ".NET Core command-line (CLI) tool to generate Entity Framework Core model from an existing database."
+    },
+    {
+        "package-id": "exceldna-unpack",
+        "package-link": "https://www.nuget.org/packages/exceldna-unpack/",
+        "command": "exceldna-unpack",
+        "author": "@augustoproiete",
+        "author-link": "https://github.com/augustoproiete",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/augustoproiete/exceldna-unpack",
+        "description": "Extract (unpack) the contents of Excel-DNA add-ins that have been packed with ExcelDnaPack, including .NET assemblies"
+    },
+    {
+        "package-id": "dotnet-tool-exec",
+        "package-link": "https://www.nuget.org/packages/dotnet-tool-exec/",
+        "command": "execute",
+        "author": "@ivanparvaresh",
+        "author-link": "https://github.com/ivanparvaresh",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/ivanparvaresh/dotnet-exec",
+        "description": "Console tool for running custom commands"
+    },
+    {
+        "package-id": "fake-cli",
+        "package-link": "https://www.nuget.org/packages/fake-cli/",
+        "command": "fake",
+        "author": "@fsharp",
+        "author-link": "https://github.com/fsharp",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/fsharp/Fake",
+        "description": "F# MAKE 5 - A DSL FOR BUILD TASKS AND MORE."
+    },
+    {
+        "package-id": "file-sort",
+        "package-link": "https://www.nuget.org/packages/file-sort/",
+        "command": "file-sort",
+        "author": "@thewindev",
+        "author-link": "https://github.com/thewindev",
+        "project-site": "Github",
+        "project-site-link": "https://github.com/thewindev/FileSort",
+        "description": "A tool to organize files in folders based by date."
+    },
+    {
+        "package-id": "findref",
+        "package-link": "https://www.nuget.org/packages/findref/",
+        "command": "findref",
+        "author": "@henrihs",
+        "author-link": "https://github.com/henrihs",
+        "project-site": "Github",
+        "project-site-link": "https://github.com/henrihs/findref",
+        "description": "Find which assemblies in a folder whom are referencing a given assembly"
+    },
+    {
+        "package-id": "FlubuCore.GlobalTool",
+        "package-link": "https://www.nuget.org/packages/FlubuCore.GlobalTool",
+        "command": "flubu",
+        "author": "@FlubuCore",
+        "author-link": "https://github.com/flubu-core",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/flubu-core/flubu.core",
+        "description": "Fluent Builder. A cross platform build automation tool for building projects and executing deployment scripts using C# code."
+    },
+    {
+        "package-id": "github-issues-cli",
+        "package-link": "https://www.nuget.org/packages/github-issues-cli/",
+        "command": "ghi",
+        "author": "@jerriep",
+        "author-link": "https://github.com/jerriep",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/jerriep/github-issues-cli",
+        "description": "A simple command-line client for managing GitHub Issues."
+    },
+    {
+        "package-id": "GiphyCli",
+        "package-link": "https://www.nuget.org/packages/GiphyCli/",
+        "command": "giphy",
+        "author": "@DavidDeSloovere",
+        "author-link": "https://github.com/DavidDeSloovere",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/DavidDeSloovere/giphy-cli",
+        "description": "Find that giphy fast and just copy the url or markdown."
+    },
+    {
+        "package-id": "git-browse",
+        "package-link": "https://www.nuget.org/packages/git-browse",
+        "command": "git-browse",
+        "author": "@nickvdyck",
+        "author-link": "https://github.com/nickvdyck",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/nickvdyck/git-browse",
+        "description": "Open the GitHub page or website for a repository in your browser."
+    },
+    {
+        "package-id": "git-flow-version",
+        "package-link": "https://www.nuget.org/packages/git-flow-version",
+        "command": "git-flow-version",
+        "author": "@hightechict",
+        "author-link": "https://github.com/hightechict",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/hightechict/DashDashVersion",
+        "description": "Create predictable and opinionated SemVer 2.0.0 version numbers for git flow repositories."
+    },
+    {
+        "package-id": "git-istage",
+        "package-link": "https://nuget.org/packages/git-istage",
+        "command": "git-istage",
+        "author": "@terrajobst",
+        "author-link": "https://github.com/terrajobst",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/terrajobst/git-istage",
+        "description": "A better git add -p."
+    },
+    {
+        "package-id": "git-rocket-filter",
+        "package-link": "https://www.nuget.org/packages/git-rocket-filter/",
+        "command": "git-rocket-filter",
+        "author": "@xoofx",
+        "author-link": "https://github.com/xoofx",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/xoofx/git-rocket-filter",
+        "description": "A powerful and faster version of git-filter-branch using C# Roslyn scripting to rewrite/filter commits."
+    },
+    {
+        "package-id": "git-status-cli",
+        "package-link": "https://www.nuget.org/packages/git-status-cli/",
+        "command": "git-status",
+        "author": "@jerriep",
+        "author-link": "https://github.com/jerriep",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/jerriep/git-status-cli",
+        "description": "A simple command-line utility to determine status of all Git repositories in a directory structure."
+    },
+    {
+        "package-id": "dotnet-gitchanges",
+        "package-link": "https://www.nuget.org/packages/dotnet-gitchanges",
+        "command": "gitchanges",
+        "author": "@bzumhagen",
+        "author-link": "https://github.com/bzumhagen",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/bzumhagen/dotnet-gitchanges",
+        "description": "Generate changelogs from git history."
+    },
+    {
+        "package-id": "dotnet-gitcoauth",
+        "package-link": "https://www.nuget.org/packages/dotnet-gitcoauth",
+        "command": "gitcoauth",
+        "author": "@LorenzCK",
+        "author-link": "https://github.com/LorenzCK",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/LorenzCK/github-coauth-tool",
+        "description": "GitCoAuth: simple co-authorship commit line generator for Git commit messages."
+    },
+    {
+        "package-id": "MarkdownSnippets.Tool",
+        "package-link": "https://www.nuget.org/packages/MarkdownSnippets.Tool/",
+        "command": "GitHubMarkdownSnippets",
+        "author": "@SimonCropp",
+        "author-link": "https://github.com/SimonCropp",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/SimonCropp/MarkdownSnippets#markdownsnippetstool",
+        "description": "A utility for merging snippets into GitHub markdown document."
+    },
+    {
+        "package-id": "gti",
+        "package-link": "https://www.nuget.org/packages/gti/",
+        "command": "gti",
+        "author": "@shaun-h",
+        "author-link": "https://github.com/shaun-h",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/shaun-h/gti",
+        "description": "Global tool for installing .Net Global tools from a tools.gti file."
+    },
+    {
+        "package-id": "dotnet-guid",
+        "package-link": "https://www.nuget.org/packages/dotnet-guid/",
+        "command": "guid",
+        "author": "@sebnilsson",
+        "author-link": "https://github.com/sebnilsson",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/sebnilsson/DotnetGuid",
+        "description": ".NET Core Global Tool for creating GUIDs/UUIDs."
+    },
+    {
+        "package-id": "helveg",
+        "package-link": "https://www.nuget.org/packages/helveg/",
+        "command": "helveg",
+        "author": "@cafstep",
+        "author-link": "https://gitlab.com/cafstep",
+        "project-site": "GitLab",
+        "project-site-link": "https://gitlab.com/helveg/helveg",
+        "description": "A software visualization tool. It turns projects into islands and classes into trees. It also sets the trees on fire if there are errors in them."
+    },
+    {
+        "package-id": "HtmlCopyVSCode",
+        "package-link": "https://www.nuget.org/packages/HtmlCopyVSCode/",
+        "command": "html-copy-vscode",
+        "author": "@slang25",
+        "author-link": "https://github.com/slang25/",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/slang25/html-copy-vscode",
+        "description": "A global tool to convert snippets copied from VS Code into plain html to paste into your blog."
+    },
+    {
+        "package-id": "IdentifierGenerator",
+        "package-link": "https://www.nuget.org/packages/IdentifierGenerator/",
+        "command": "idgen",
+        "author": "@abock",
+        "author-link": "https://github.com/abock",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/abock/idgen",
+        "description": "idgen supports the bulk generation of various types of unique identifiers."
+    },
+    {
+        "package-id": "ilspycmd",
+        "package-link": "https://www.nuget.org/packages/ilspycmd/",
+        "command": "ilspycmd",
+        "author": "@ilspy",
+        "author-link": "https://github.com/icsharpcode/ILSpy/",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/icsharpcode/ILSpy/tree/master/ICSharpCode.Decompiler.Console",
+        "description": "A tool for decompiling .NET assemblies and generating portable PDBs"
+    },
+    {
+        "package-id": "InstallSdkGlobalTool",
+        "package-link": "https://www.nuget.org/packages/InstallSdkGlobalTool/",
+        "command": "installsdk",
+        "author": "@josephwoodward",
+        "author-link": "https://github.com/JosephWoodward",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/JosephWoodward/InstallSdkGlobalTool",
+        "description": "A global tool for downloading and installing .NET Core SDKs based on a global.json files."
+    },
+    {
+        "package-id": "JitDasm.0xd4d",
+        "package-link": "https://www.nuget.org/packages/JitDasm.0xd4d",
+        "command": "jitdasm",
+        "author": "@0xd4d",
+        "author-link": "https://github.com/0xd4d",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/0xd4d/JitDasm",
+        "description": "Disassembles one or more .NET methods / types to stdout or file(s). It can also create diffable disassembly."
+    },
+    {
+        "package-id": "json2yaml",
+        "package-link": "https://www.nuget.org/packages/json2yaml/",
+        "command": "json2yaml",
+        "author": "@joostas",
+        "author-link": "https://gitlab.com/joostas",
+        "project-site": "GitLab",
+        "project-site-link": "https://gitlab.com/joostas/json-2-yaml",
+        "description": "A tool for converting json to yaml. Supports piping."
+    },
+    {
+        "package-id": "Kentico.Kontent.ModelGenerator",
+        "package-link": "https://www.nuget.org/packages/Kentico.Kontent.ModelGenerator/",
+        "command": "Kentico.Kontent.ModelGenerator",
+        "author": "@kentico",
+        "author-link": "https://github.com/kentico",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/Kentico/kontent-generators-net",
+        "description": "POCO model generator for Kentico Kontent."
+    },
+    {
+        "package-id": "kubedmc",
+        "package-link": "https://www.nuget.org/packages/KubeDmc/",
+        "command": "kubedmc",
+        "author": "@mimetis",
+        "author-link": "https://github.com/Mimetis",
+        "project-site": "",
+        "project-site-link": "",
+        "description": "Navigate into your favorite Kubernetes cluster with one finger!"
+    },
+    {
+        "package-id": "Microsoft.Web.LibraryManager.CLI",
+        "package-link": "https://www.nuget.org/packages/Microsoft.Web.LibraryManager.CLI",
+        "command": "libman",
+        "author": "@aspnet",
+        "author-link": "https://github.com/aspnet",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/aspnet/LibraryManager/wiki/Using-LibMan-CLI",
+        "description": "LibMan is a tool that helps you download common libraries from the Internet to use in your web project."
+    },
+    {
+        "package-id": "LiveReloadServer",
+        "package-link": "https://www.nuget.org/packages/LiveReloadServer/",
+        "command": "LiveReloadServer",
+        "author": "@rickstrahl",
+        "author-link": "https://github.com/rickstrahl",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/RickStrahl/Westwind.AspnetCore.LiveReload/tree/master/LiveReloadServer",
+        "description": "A self-contained, generic, local Web Server that you can use to serve Web content from with optional support for Live Reload functionality for refreshing the site on content changes. Just point the tool at a folder and go. Also supports loose Razor Pages and has built-in Markdown document serving support."
+    },
+    {
+        "package-id": "localappveyor",
+        "package-link": "https://www.nuget.org/packages/localappveyor",
+        "command": "LocalAppVeyor",
+        "author": "@joaope",
+        "author-link": "https://github.com/joaope",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/joaope/localappveyor",
+        "description": ".NET Core global tool which brings appveyor.yml to the center of your build process by making possible to execute its build jobs, locally."
+    },
+    {
+        "package-id": "loxsmoke.mddox",
+        "package-link": "https://www.nuget.org/packages/LoxSmoke.mddox",
+        "command": "mddox",
+        "author": "@loxsmoke",
+        "author-link": "https://github.com/loxsmoke",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/loxsmoke/mddox",
+        "description": "A simple markdown documentation generator using reflection and XML comments."
+    },
+    {
+        "package-id": "minimig",
+        "package-link": "https://www.nuget.org/packages/minimig",
+        "command": "minimig",
+        "author": "@jaxelr",
+        "author-link": "https://github.com/jaxelr",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/Jaxelr/Minimig",
+        "description": "A forward-only database migration tool."
+    },
+    {
+        "package-id": "minver-cli",
+        "package-link": "https://www.nuget.org/packages/minver-cli",
+        "command": "minver-cli",
+        "author": "@adamralph",
+        "author-link": "https://github.com/adamralph",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/adamralph/minver",
+        "description": "A minimalistic command line tool for versioning any Git repository using tags."
+    },
+    {
+        "package-id": "moniker.cli",
+        "package-link": "https://www.nuget.org/packages/Moniker.Cli/",
+        "command": "moniker",
+        "author": "@alexmg",
+        "author-link": "https://github.com/alexmg",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/alexmg/Moniker",
+        "description": "Moniker CLI is a tiny .NET Core Global Tool for generating fun names. The names can follow the style used in Helm for release names or in Docker for container names."
+    },
+    {
+        "package-id": "nanoFirmwareFlasher",
+        "package-link": "https://www.nuget.org/packages/nanoFirmwareFlasher/",
+        "command": "nanoff",
+        "author": "@AArnott",
+        "author-link": "https://github.com/nanoframework",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/nanoframework/nanoFirmwareFlasher",
+        "description": "A .NET Core Tool to update the firmware of nanoFramework devices. It can also backup the firmware, deployment and be used in production environment."
+    },
+    {
+        "package-id": "nbgv",
+        "package-link": "https://www.nuget.org/packages/nbgv/",
+        "command": "nbgv",
+        "author": "@AArnott",
+        "author-link": "https://github.com/AArnott",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/aarnott/Nerdbank.GitVersioning",
+        "description": "A .NET Core Tool that can install, read and set version information based on git history, using Nerdbank.GitVersioning."
+    },
+    {
+        "package-id": "nulastudio.ncbeauty",
+        "package-link": "https://www.nuget.org/packages/nulastudio.ncbeauty/",
+        "command": "ncbeauty",
+        "author": "@LiesAuer",
+        "author-link": "https://github.com/liesauer",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/nulastudio/NetCoreBeauty",
+        "description": "Move a .NET Core app runtime components and dependencies into a sub-directory and make it beauty."
+    },
+    {
+        "package-id": "ndjson",
+        "package-link": "https://www.nuget.org/packages/ndjson/",
+        "command": "ndjson",
+        "author": "@fredeil",
+        "author-link": "https://github.com/fredeil",
+        "project-site": "",
+        "project-site-link": "",
+        "description": "A dotnet cli tool for printing newline delimited json to console."
+    },
+    {
+        "package-id": "NuGetUtils.Tool.Deploy",
+        "package-link": "https://www.nuget.org/packages/NuGetUtils.Tool.Deploy/",
+        "command": "nuget-deploy",
+        "author": "@stazz",
+        "author-link": "https://github.com/stazz",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/stazz/NuGetUtils/tree/develop/Source/NuGetUtils.Tool.Deploy",
+        "description": "Restore NuGet package if needed, and deploy it in a specified folder, by copying assemblies of the NuGet dependencies, or by generating appropriate `.deps.json` and `.runtimeconfig.json` files"
+    },
+    {
+        "package-id": "NuGetUtils.Tool.Exec",
+        "package-link": "https://www.nuget.org/packages/NuGetUtils.Tool.Exec/",
+        "command": "nuget-exec",
+        "author": "@stazz",
+        "author-link": "https://github.com/stazz",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/stazz/NuGetUtils/tree/develop/Source/NuGetUtils.Tool.Exec",
+        "description": "Restore NuGet package if needed, and execute a method within its assembly, loading dependencies as needed on-the-fly. Custom method parameter types are also supported."
+    },
+    {
+        "package-id": "NuGetUtils.Tool.Restore",
+        "package-link": "https://www.nuget.org/packages/NuGetUtils.Tool.Restore/",
+        "command": "nuget-restore",
+        "author": "@stazz",
+        "author-link": "https://github.com/stazz",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/stazz/NuGetUtils/tree/develop/Source/NuGetUtils.Tool.Restore",
+        "description": "Restore one or more NuGet package, if needed."
+    },
+    {
+        "package-id": "NuGetKeyVaultSignTool",
+        "package-link": "https://www.nuget.org/packages/NuGetKeyVaultSignTool/",
+        "command": "NuGetKeyVaultSignTool",
+        "author": "@onovotny",
+        "author-link": "https://github.com/onovotny",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/onovotny/NuGetKeyVaultSignTool",
+        "description": "Code sign your .nupkg files using an Authenticode certificate stored in Azure Key Vault"
+    },
+    {
+        "package-id": "Nuke.GlobalTool",
+        "package-link": "https://www.nuget.org/packages/Nuke.GlobalTool",
+        "command": "nuke",
+        "author": "@nuke-build",
+        "author-link": "https://github.com/nuke-build",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/nuke-build/nuke",
+        "description": "Run and setup NUKE builds with a single command on any platform :rocket:"
+    },
+    {
+        "package-id": "NukedBit.NRepo",
+        "package-link": "https://www.nuget.org/packages/NukedBit.NRepo",
+        "command": "NukedBit.NRepo",
+        "author": "@nukedbit",
+        "author-link": "https://github.com/nukedbit",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/nukedbit/nrepo",
+        "description": ".NET Core Global Tool for simplifying repository creation with good defaults."
+    },
+    {
+        "package-id": "NuKeeper",
+        "package-link": "https://www.nuget.org/packages/NuKeeper",
+        "command": "NuKeeper",
+        "author": "@AnthonySteele",
+        "author-link": "https://github.com/anthonysteele",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/NuKeeperDotNet/NuKeeper",
+        "description": "Find outdated NuGet packages and apply updates to them."
+    },
+    {
+        "package-id": "nyancat",
+        "package-link": "https://www.nuget.org/packages/nyancat/",
+        "command": "nyancat",
+        "author": "@nickvdyck",
+        "author-link": "https://github.com/nickvdyck",
+        "project-site": "",
+        "project-site-link": "",
+        "description": "Nyancat \ud83d\ude3b in your terminal, rendered through ANSI escape sequences. A port of the original terminal application to make this cat run on dotnet core. \ud83d\udc31\u200d\ud83c\udfcd"
+    },
+    {
+        "package-id": "Omnia.CLI",
+        "package-link": "https://www.nuget.org/packages/Omnia.CLI/",
+        "command": "omnia-cli",
+        "author": "@OMNIA Low-code",
+        "author-link": "https://github.com/omnialowcode/",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/omnialowcode/omnia-cli",
+        "description": "A cli tool for interacting with OMNIA Low-code REST API."
+    },
+    {
+        "package-id": "orang.dotnet.cli",
+        "package-link": "https://www.nuget.org/packages/orang.dotnet.cli",
+        "command": "orang",
+        "author": "@JosefPihrt",
+        "author-link": "https://github.com/josefpihrt",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/josefpihrt/orang",
+        "description": "Search, replace, rename and delete directories, files and its content using the power of .NET regular expressions."
+    },
+    {
+        "package-id": "OtterKeys",
+        "package-link": "https://www.nuget.org/packages/OtterKeys",
+        "command": "otterkeys",
+        "author": "@natsuo",
+        "author-link": "https://github.com/natsuo",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/miqo-no/OtterKeys",
+        "description": "Quickly create Ed25519 key pairs for signing and verifying messages or other data."
+    },
+    {
+        "package-id": "p2u",
+        "package-link": "https://www.nuget.org/packages/p2u",
+        "command": "p2u",
+        "author": "@celsojr",
+        "author-link": "https://github.com/celsojr",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/celsojr/p2u",
+        "description": "Paste text content with Unix-like line terminations into Windows Terminal without extra line wrapping. Even into Cmd or Vim."
+    },
+    {
+        "package-id": "pbm",
+        "package-link": "https://www.nuget.org/packages/pbm/",
+        "command": "pbm",
+        "author": "@petabridge",
+        "author-link": "https://cmd.petabridge.com/",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/petabridge/petabridge.cmd-issues",
+        "description": "Petabridge.Cmd CLI for managing Akka.NET applications and clusters"
+    },
+    {
+        "package-id": "protobuf-net.Protogen",
+        "package-link": "https://www.nuget.org/packages/protobuf-net.Protogen/",
+        "command": "protogen",
+        "author": "@mgravell",
+        "author-link": "https://github.com/mgravell",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/mgravell/protobuf-net",
+        "description": "protobuf-net code-generation from .proto schema files."
+    },
+    {
+        "package-id": "PowerShell",
+        "package-link": "https://www.nuget.org/packages/PowerShell/",
+        "command": "pwsh",
+        "author": "@PowerShell",
+        "author-link": "https://github.com/PowerShell",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/PowerShell/PowerShell",
+        "description": "PowerShell Core global tool."
+    },
+    {
+        "package-id": "recolor",
+        "package-link": "https://www.nuget.org/packages/Recolor/",
+        "command": "recolor",
+        "author": "@atifaziz",
+        "author-link": "https://github.com/atifaziz",
+        "project-site": "Github",
+        "project-site-link": "https://github.com/atifaziz/recolor",
+        "description": "Colors regex matches on STDIN lines"
+    },
+    {
+        "package-id": "RendleLabs.NukeFromOrbit",
+        "package-link": "https://www.nuget.org/packages/RendleLabs.NukeFromOrbit",
+        "command": "RendleLabs.NukeFromOrbit",
+        "author": "@markrendle",
+        "author-link": "https://github.com/markrendle",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/RendleLabs/NukeFromOrbit/",
+        "description": "Adds a `nuke-from-orbit` command that deletes all `bin` and `obj` directories from a solution, for times when it's the only way to be sure."
+    },
+    {
+        "package-id": "dotnet-reportgenerator-globaltool",
+        "package-link": "https://www.nuget.org/packages/dotnet-reportgenerator-globaltool",
+        "command": "reportgenerator",
+        "author": "",
+        "author-link": "",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/danielpalme/ReportGenerator/",
+        "description": "ReportGenerator converts XML reports generated by OpenCover, PartCover, dotCover, Visual Studio, NCover or Cobertura into human readable reports in various formats."
+    },
+    {
+        "package-id": "dotnet-rider-cli",
+        "package-link": "https://www.nuget.org/packages/dotnet-rider-cli",
+        "command": "rider",
+        "author": "@markrendle",
+        "author-link": "https://github.com/markrendle",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/RendleLabs/dotnet-rider-cli/",
+        "description": "**Windows only** Adds a `rider` command to launch JetBrains Rider when it's installed via Toolbox."
+    },
+    {
+        "package-id": "dotnet-rimraf",
+        "package-link": "https://www.nuget.org/packages/dotnet-rimraf",
+        "command": "rimraf",
+        "author": "@DoCode",
+        "author-link": "https://github.com/DoCode",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/dotnet-tool/rimraf/",
+        "description": "rimraf as a .NET Core Global Tool."
+    },
+    {
+        "package-id": "roslynator.dotnet.cli",
+        "package-link": "https://www.nuget.org/packages/Roslynator.DotNet.Cli",
+        "command": "roslynator",
+        "author": "@JosefPihrt",
+        "author-link": "https://github.com/JosefPihrt",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/JosefPihrt/Roslynator",
+        "description": "A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn."
+    },
+    {
+        "package-id": "message-manager",
+        "package-link": "https://www.nuget.org/packages/message-manager",
+        "command": "sbmgr",
+        "author": "Thon Hotels",
+        "author-link": "https://www.thonhotels.no",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/thonhotels/message-manager",
+        "description": "Azure servicebus message manager. List, send, resend and delete messages on servicebus queues or topics"
+    },
+    {
+        "package-id": "SharpFuzz.CommandLine",
+        "package-link": "https://www.nuget.org/packages/SharpFuzz.CommandLine/",
+        "command": "sharpfuzz",
+        "author": "@Metalnem",
+        "author-link": "https://github.com/Metalnem",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/Metalnem/sharpfuzz",
+        "description": "Command line tool for SharpFuzz instrumentation."
+    },
+    {
+        "package-id": "skynet-cli",
+        "package-link": "https://www.nuget.org/packages/skynet-cli/",
+        "command": "skynet-cli",
+        "author": "@drmathias",
+        "author-link": "https://github.com/drmathias",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/drmathias/skynet-cli",
+        "description": "A command line tool for uploading files to Sia Skynet."
+    },
+    {
+        "package-id": "Sleet",
+        "package-link": "https://www.nuget.org/packages/Sleet/",
+        "command": "sleet",
+        "author": "@emgarten",
+        "author-link": "https://github.com/emgarten",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/emgarten/Sleet",
+        "description": "A static NuGet feed generator."
+    },
+    {
+        "package-id": "Snitch",
+        "package-link": "https://www.nuget.org/packages/Snitch/",
+        "command": "snitch",
+        "author": "@Spectre Systems AB",
+        "author-link": "https://github.com/spectresystems",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/spectresystems/snitch",
+        "description": "A tool that help you find transitive package references that can be removed."
+    },
+    {
+        "package-id": "SpecSync.AzureDevOps",
+        "package-link": "https://www.nuget.org/packages/SpecSync.AzureDevOps",
+        "command": "specsync",
+        "author": "@gasparnagy",
+        "author-link": "https://github.com/gasparnagy",
+        "project-site": "",
+        "project-site-link": "",
+        "description": "SpecSync for Azure DevOps is a synchronization tool that synchronizes BDD Gherkin feature files with Azure DevOps (TFS/VSTS)."
+    },
+    {
+        "package-id": "AzureSpeechCLI",
+        "package-link": "https://www.nuget.org/packages/azurespeechcli/",
+        "command": "speech",
+        "author": "@msimecek",
+        "author-link": "https://github.com/msimecek",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/msimecek/Azure-Speech-CLI",
+        "description": "Unofficial Azure Speech CLI - manage acoustic datasets, models, endpoints, transcriptions and more."
+    },
+    {
+        "package-id": "srihash-cli",
+        "package-link": "https://www.nuget.org/packages/srihash-cli",
+        "command": "srihash",
+        "author": "@natemcmaster",
+        "author-link": "https://github.com/natemcmaster",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/natemcmaster/srihash-cli",
+        "description": "Generates the SRI hash for &lt;script&gt; tags in browsers."
+    },
+    {
+        "package-id": "dotnet-ssllabs-check",
+        "package-link": "https://www.nuget.org/packages/dotnet-ssllabs-check",
+        "command": "ssllabs-check",
+        "author": "@jbtule",
+        "author-link": "https://github.com/jbtule",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/ekonbenefits/dotnet-ssllabs-check",
+        "description": "Tool that will check ssllabs score api and cert expiration when provided a list of hosts."
+    },
+    {
+        "package-id": "Elemental.SysInfoTool",
+        "package-link": "https://www.nuget.org/packages/Elemental.SysInfoTool/",
+        "command": "sysinfo",
+        "author": "@markpflug",
+        "author-link": "https://github.com/markpflug",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/markpflug/Elemental.SysInfoTool",
+        "description": "Outputs system information."
+    },
+    {
+        "package-id": "dotnet-t4",
+        "package-link": "https://www.nuget.org/packages/dotnet-t4/",
+        "command": "t4",
+        "author": "@mhutch",
+        "author-link": "https://github.com/mhutch",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/mono/t4",
+        "description": "T4 text template processor."
+    },
+    {
+        "package-id": "TcpMux",
+        "package-link": "https://www.nuget.org/packages/TcpMux/",
+        "command": "tcpmux",
+        "author": "@nicodeslandes",
+        "author-link": "https://github.com/nicodeslandes",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/nicodeslandes/TcpMux",
+        "description": "TCP Multiplexer; provide simple routing of TCP traffic as well as SSL re-encryption and off-loading."
+    },
+    {
+        "package-id": "TemplateVersions.Tool",
+        "package-link": "https://www.nuget.org/packages/TemplateVersions.Tool/",
+        "command": "templateversions",
+        "author": "@VictorioBerra",
+        "author-link": "https://github.com/VictorioBerra",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/VictorioBerra/TemplateVersions.Tool",
+        "description": "Lists all the versions of dotnet core SDKs in your user template directory and the global tools for each version."
+    },
+    {
+        "package-id": "todo",
+        "package-link": "https://www.nuget.org/packages/todo",
+        "command": "todo",
+        "author": "@ivanpaulovich",
+        "author-link": "https://github.com/ivanpaulovich",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/ivanpaulovich/todo",
+        "description": "The simple, powerfull and extensible Todo List app in your terminal."
+    },
+    {
+        "package-id": "trx2junit",
+        "package-link": "https://www.nuget.org/packages/trx2junit/",
+        "command": "trx2junit",
+        "author": "@gfoidl",
+        "author-link": "https://github.com/gfoidl",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/gfoidl/trx2junit",
+        "description": "Transforms XML from trx-Testresults to JUnit-Testresults / trx to JUnit XML."
+    },
+    {
+        "package-id": "TusCli",
+        "package-link": "https://www.nuget.org/packages/TusCli/",
+        "command": "tus",
+        "author": "@Jon-Indico",
+        "author-link": "https://github.com/Jon-Indico",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/Jon-Indico/TusCli",
+        "description": "A cli tool for interacting with a Tus enabled server."
+    },
+    {
+        "package-id": "RendleLabs.UnpkgCli",
+        "package-link": "https://www.nuget.org/packages/RendleLabs.UnpkgCli",
+        "command": "unpkg",
+        "author": "@markrendle",
+        "author-link": "https://github.com/markrendle",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/RendleLabs/dotnet-unpkg",
+        "description": "Front-end package manager that uses the unpkg.com CDN as a source. No Node.js, NPM or Bower required."
+    },
+    {
+        "package-id": "upforgrabs",
+        "package-link": "https://www.nuget.org/packages/upforgrabs",
+        "command": "upforgrabs",
+        "author": "@spboyer",
+        "author-link": "https://github.com/spboyer",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/spboyer/dotnet-upforgrabs",
+        "description": "A tool to select a random .NET Open Source project/issue tagged with \"up-for-grabs\",\"firsttimer\", etc. to work on."
+    },
+    {
+        "package-id": "dotnet-versioninfo",
+        "package-link": "https://www.nuget.org/packages/dotnet-versioninfo/",
+        "command": "versioninfo",
+        "author": "@taylorjg",
+        "author-link": "https://github.com/taylorjg",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/taylorjg/dotnet-versioninfo",
+        "description": "Display version information of .NET Core assemblies."
+    },
+    {
+        "package-id": "dotnet-vs",
+        "package-link": "https://www.nuget.org/packages/dotnet-vs/",
+        "command": "vs",
+        "author": "@kzu",
+        "author-link": "https://github.com/kzu/",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/kzu/dotnet-vs",
+        "description": "A global tool for managing Visual Studio installations."
+    },
+    {
+        "package-id": "webtty",
+        "package-link": "https://www.nuget.org/packages/webtty/",
+        "command": "webtty",
+        "author": "@nickvdyck",
+        "author-link": "https://github.com/nickvdyck",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/nickvdyck/webtty",
+        "description": "Simple command-line tool for sharing a terminal over the web."
+    },
+    {
+        "package-id": "weeknumber",
+        "package-link": "https://www.nuget.org/packages/weeknumber/",
+        "command": "weeknumber",
+        "author": "@MarkusLund",
+        "author-link": "https://github.com/MarkusLund",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/MarkusLund/weeknumber",
+        "description": "Prints the current weeknumber to the command line."
+    },
+    {
+        "package-id": "WhiteSpaceWarrior",
+        "package-link": "https://www.nuget.org/packages/WhiteSpaceWarrior/",
+        "command": "WhiteSpaceWarrior",
+        "author": "@kbilsted",
+        "author-link": "https://github.com/kbilsted",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/kbilsted/WhitespaceWarrior",
+        "description": "Removes all the stuff you get annoyed about when you speed-read code, such as empty lines, empty comments, and short meaningles comments."
+    },
+    {
+        "package-id": "Xamarin.AndroidBinderator.Tool",
+        "package-link": "https://www.nuget.org/packages/Xamarin.AndroidBinderator.Tool/",
+        "command": "xamarin-android-binderator",
+        "author": "@Redth",
+        "author-link": "https://github.com/Redth",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/Redth/Xamarin.AndroidBinderator",
+        "description": "An engine to generate Xamarin Binding projects from Maven repositories with a JSON config and razor templates."
+    },
+    {
+        "package-id": "dotnet-xscgen",
+        "package-link": "https://www.nuget.org/packages/dotnet-xscgen/",
+        "command": "xscgen",
+        "author": "@mganss",
+        "author-link": "https://github.com/mganss",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/mganss/XmlSchemaClassGenerator",
+        "description": "Generate XmlSerializer compatible C# classes from XML Schema files."
+    },
+    {
+        "package-id": "XamlStyler.Console",
+        "package-link": "https://www.nuget.org/packages/XamlStyler.Console",
+        "command": "xstyler",
+        "author": "Xavalon",
+        "author-link": "https://github.com/Xavalon",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/Xavalon/XamlStyler",
+        "description": "CLI for XAML Styler. Format your XAML source code by integrating into build scripts, git commit templates, and more. This package is built on top of the same styling engine that powers the Visual Studio plugin."
+    },
+    {
+        "package-id": "xunit-cli",
+        "package-link": "https://www.nuget.org/packages/xunit-cli",
+        "command": "xunit",
+        "author": "@natemcmaster",
+        "author-link": "https://github.com/natemcmaster",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/natemcmaster/xunit-cli",
+        "description": "Console tool for running xUnit.net tests"
+    },
+    {
+        "package-id": "yamlizr",
+        "package-link": "https://www.nuget.org/packages/yamlizr",
+        "command": "yamlizr",
+        "author": "@f2calv",
+        "author-link": "https://github.com/f2calv",
+        "project-site": "GitHub",
+        "project-site-link": "https://github.com/f2calv/yamlizr",
+        "description": "Generate Azure Pipelines YAML and GitHub Actions YAML from Azure DevOps Classic Build/Release definitions."
+    }
+]
