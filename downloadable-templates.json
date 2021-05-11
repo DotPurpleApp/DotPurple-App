@@ -1,0 +1,19 @@
+[{
+        "package-id": "Amazon.Lambda.Templates",
+        "package-link": "https://www.nuget.org/packages/Amazon.Lambda.Templates/",
+        "author": "Amazon Web Services",
+        "author-link": "https://www.nuget.org/profiles/awsdotnet",
+        "project-site": "",
+        "project-site-link": "https://github.com/aws/aws-lambda-dotnet",
+        "description": "AWS Lambda templates for Microsoft Template Engine accessible with the dotnet CLI's new command"
+    },
+    {
+        "package-id": "Boxed.Templates",
+        "package-link": "https://www.nuget.org/packages/Boxed.Templates/",
+        "author": "@RehanSaeedUK",
+        "author-link": "https://rehansaeed.com/",
+        "project-site": "",
+        "project-site-link": "https://github.com/Dotnet-Boxed/Templates",
+        "description": "Project templates with batteries included, providing the minimum amount of code required to get you going."
+    }
+ ]
